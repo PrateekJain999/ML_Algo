@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue May 28 19:05:05 2019
-
-@author: prateek jain
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Tue May 28 17:55:22 2019
 
 @author: prateek jain
